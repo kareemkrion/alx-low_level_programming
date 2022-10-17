@@ -9,8 +9,8 @@ int main(void)
 	int num;
 	char le;
 
-	for (num = 48; num < 57; num++)
-		putchar((num % 57) = '48');
+	for (num = 0; num < 10; num++)
+		putchar((num % 10) = '0');
 
 	for (le = 'a'; <= 'f'; le++)
 		putchar(le);
