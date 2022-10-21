@@ -5,6 +5,7 @@
 int _isupper(int c);
 int _isdigt(int c);
 int mult(int a, int b);
+int _putchar(char c);
 
 
 #endif
